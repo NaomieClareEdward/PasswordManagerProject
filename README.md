@@ -109,9 +109,9 @@ This project is a **Password Manager** application that provides secure storage 
 ---
 
 ## Contributors
-- [NaomieClareEdward]
-- [EricSTOIAN]
-- [ritayoussef]
+- NaomieClareEdward
+- EricSTOIAN
+- ritayoussef
 
 
 
