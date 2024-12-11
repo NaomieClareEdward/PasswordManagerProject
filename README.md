@@ -106,5 +106,12 @@ This project is a **Password Manager** application that provides secure storage 
 - Add unit tests for robustness.
 - Include error handling for edge cases and invalid inputs.
 
+---
+
+## Contributors
+- [NaomieClareEdward]
+- [EricSTOIAN]
+- [ritayoussef]
+
 
 
